@@ -33,6 +33,7 @@
   "exclude": [
     "node_modules",
     "dist",
+    "test-results",
     "node_modules_incomplete",
     "node_modules_incomplete_2"
   ]
