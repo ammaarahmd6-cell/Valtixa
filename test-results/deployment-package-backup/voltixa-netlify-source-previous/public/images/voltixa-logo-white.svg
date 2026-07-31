@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 48" role="img" aria-labelledby="title">
+  <title id="title">VOLTIXA</title>
+  <defs>
+    <linearGradient id="g" x1="4" y1="3" x2="44" y2="45" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="44" height="44" rx="13" fill="url(#g)"/>
+  <path d="M13 13.5h7.2l4.1 16.1 4.6-8.7h-4.5l7.8-9.4-2.8 7.1H35L23.1 37 13 13.5Z" fill="white"/>
+  <text x="55" y="33" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="800" letter-spacing="-0.8">VOLTI</text>
+  <text x="139" y="33" fill="#22D3EE" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="800" letter-spacing="-0.8">XA</text>
+</svg>

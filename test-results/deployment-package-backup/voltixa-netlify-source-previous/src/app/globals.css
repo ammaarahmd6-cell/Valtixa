@@ -1,0 +1,129 @@
+@import "tailwindcss";
+
+:root {
+  --navy: #0f172a;
+  --blue: #2563eb;
+  --cyan: #06b6d4;
+  --surface: #f8fafc;
+  --muted: #64748b;
+  --border: #e2e8f0;
+}
+
+@theme inline {
+  --color-brand: var(--blue);
+  --color-ink: var(--navy);
+  --color-cyan: var(--cyan);
+  --color-surface: var(--surface);
+  --font-sans: var(--font-geist-sans);
+}
+
+* {
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  margin: 0;
+  background: var(--surface);
+  color: var(--navy);
+}
+button,
+a,
+input,
+select,
+textarea {
+  outline-offset: 3px;
+}
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+button:focus-visible,
+a:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+  outline: 3px solid rgba(37, 99, 235, 0.32);
+}
+.container-shell {
+  width: min(100% - 32px, 1360px);
+  margin-inline: auto;
+}
+.scrollbar-hide {
+  scrollbar-width: none;
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+.product-art {
+  background:
+    radial-gradient(
+      circle at 72% 18%,
+      color-mix(in srgb, var(--product-accent, #06b6d4) 13%, transparent),
+      transparent 34%
+    ),
+    linear-gradient(145deg, #fbfdff, #eef5ff);
+}
+.shimmer {
+  background: linear-gradient(90deg, #eef2f7 25%, #f8fafc 50%, #eef2f7 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+@keyframes shimmer {
+  to {
+    background-position: -200% 0;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+  }
+}
+
+@media print {
+  @page {
+    size: A4;
+    margin: 14mm;
+  }
+
+  body {
+    background: white;
+  }
+
+  body * {
+    visibility: hidden;
+  }
+
+  [data-print-order],
+  [data-print-order] * {
+    visibility: visible;
+  }
+
+  [data-print-order] {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    color: #0f172a;
+  }
+
+  [data-print-order] section {
+    break-inside: avoid;
+    box-shadow: none;
+  }
+
+  [data-no-print],
+  [data-no-print] * {
+    display: none !important;
+  }
+}

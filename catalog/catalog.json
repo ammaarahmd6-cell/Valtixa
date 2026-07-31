@@ -1,0 +1,2628 @@
+{
+  "generatedAt": "2026-07-30T13:51:07.956Z",
+  "categories": [
+    {
+      "slug": "mobile-phones",
+      "name": "Mobile Phones",
+      "image": "/images/products/category-mobile-phones.webp"
+    },
+    {
+      "slug": "laptops",
+      "name": "Laptops",
+      "image": "/images/products/category-laptops.webp"
+    },
+    {
+      "slug": "desktops",
+      "name": "Desktop Computers",
+      "image": "/images/products/category-desktops.webp"
+    },
+    {
+      "slug": "mobile-accessories",
+      "name": "Mobile Accessories",
+      "image": "/images/products/category-mobile-accessories.webp"
+    },
+    {
+      "slug": "laptop-accessories",
+      "name": "Laptop Accessories",
+      "image": "/images/products/category-laptop-accessories.webp"
+    },
+    {
+      "slug": "smartwatches",
+      "name": "Smartwatches",
+      "image": "/images/products/category-smartwatches.webp"
+    },
+    {
+      "slug": "audio",
+      "name": "Audio",
+      "image": "/images/products/category-audio.webp"
+    }
+  ],
+  "categoryBrands": {
+    "mobile-phones": [
+      {
+        "name": "Apple",
+        "slug": "apple"
+      },
+      {
+        "name": "Samsung",
+        "slug": "samsung"
+      },
+      {
+        "name": "Xiaomi",
+        "slug": "xiaomi"
+      },
+      {
+        "name": "Redmi",
+        "slug": "redmi"
+      },
+      {
+        "name": "Poco",
+        "slug": "poco"
+      },
+      {
+        "name": "Realme",
+        "slug": "realme"
+      },
+      {
+        "name": "Oppo",
+        "slug": "oppo"
+      },
+      {
+        "name": "Vivo",
+        "slug": "vivo"
+      },
+      {
+        "name": "OnePlus",
+        "slug": "oneplus"
+      },
+      {
+        "name": "Google Pixel",
+        "slug": "google-pixel"
+      },
+      {
+        "name": "Huawei",
+        "slug": "huawei"
+      },
+      {
+        "name": "Honor",
+        "slug": "honor"
+      },
+      {
+        "name": "Nokia",
+        "slug": "nokia"
+      },
+      {
+        "name": "Motorola",
+        "slug": "motorola"
+      },
+      {
+        "name": "Tecno",
+        "slug": "tecno"
+      },
+      {
+        "name": "Infinix",
+        "slug": "infinix"
+      },
+      {
+        "name": "itel",
+        "slug": "itel"
+      },
+      {
+        "name": "Sony",
+        "slug": "sony"
+      },
+      {
+        "name": "ASUS",
+        "slug": "asus"
+      },
+      {
+        "name": "Nothing",
+        "slug": "nothing"
+      }
+    ],
+    "laptops": [
+      {
+        "name": "Apple",
+        "slug": "apple"
+      },
+      {
+        "name": "Dell",
+        "slug": "dell"
+      },
+      {
+        "name": "HP",
+        "slug": "hp"
+      },
+      {
+        "name": "Lenovo",
+        "slug": "lenovo"
+      },
+      {
+        "name": "ASUS",
+        "slug": "asus"
+      },
+      {
+        "name": "Acer",
+        "slug": "acer"
+      },
+      {
+        "name": "Microsoft",
+        "slug": "microsoft"
+      },
+      {
+        "name": "Samsung",
+        "slug": "samsung"
+      },
+      {
+        "name": "LG",
+        "slug": "lg"
+      },
+      {
+        "name": "Huawei",
+        "slug": "huawei"
+      },
+      {
+        "name": "Toshiba",
+        "slug": "toshiba"
+      }
+    ],
+    "desktops": [
+      {
+        "name": "Dell",
+        "slug": "dell"
+      },
+      {
+        "name": "HP",
+        "slug": "hp"
+      },
+      {
+        "name": "Lenovo",
+        "slug": "lenovo"
+      },
+      {
+        "name": "Apple",
+        "slug": "apple"
+      },
+      {
+        "name": "ASUS",
+        "slug": "asus"
+      },
+      {
+        "name": "Acer",
+        "slug": "acer"
+      }
+    ],
+    "mobile-accessories": [
+      {
+        "name": "Apple",
+        "slug": "apple"
+      },
+      {
+        "name": "Samsung",
+        "slug": "samsung"
+      },
+      {
+        "name": "Xiaomi",
+        "slug": "xiaomi"
+      },
+      {
+        "name": "JBL",
+        "slug": "jbl"
+      },
+      {
+        "name": "Sony",
+        "slug": "sony"
+      },
+      {
+        "name": "Soundcore",
+        "slug": "soundcore"
+      }
+    ],
+    "laptop-accessories": [
+      {
+        "name": "Logitech",
+        "slug": "logitech"
+      },
+      {
+        "name": "HP",
+        "slug": "hp"
+      },
+      {
+        "name": "Dell",
+        "slug": "dell"
+      },
+      {
+        "name": "Lenovo",
+        "slug": "lenovo"
+      },
+      {
+        "name": "ASUS",
+        "slug": "asus"
+      },
+      {
+        "name": "Acer",
+        "slug": "acer"
+      },
+      {
+        "name": "Microsoft",
+        "slug": "microsoft"
+      },
+      {
+        "name": "SanDisk",
+        "slug": "sandisk"
+      },
+      {
+        "name": "Seagate",
+        "slug": "seagate"
+      },
+      {
+        "name": "Samsung",
+        "slug": "samsung"
+      },
+      {
+        "name": "TP-Link",
+        "slug": "tp-link"
+      },
+      {
+        "name": "Cooler Master",
+        "slug": "cooler-master"
+      }
+    ],
+    "smartwatches": [
+      {
+        "name": "Apple",
+        "slug": "apple"
+      },
+      {
+        "name": "Samsung",
+        "slug": "samsung"
+      },
+      {
+        "name": "Huawei",
+        "slug": "huawei"
+      },
+      {
+        "name": "Xiaomi",
+        "slug": "xiaomi"
+      },
+      {
+        "name": "Noise",
+        "slug": "noise"
+      },
+      {
+        "name": "boAt",
+        "slug": "boat"
+      },
+      {
+        "name": "CMF by Nothing",
+        "slug": "cmf-by-nothing"
+      }
+    ],
+    "audio": [
+      {
+        "name": "Sony",
+        "slug": "sony"
+      },
+      {
+        "name": "JBL",
+        "slug": "jbl"
+      },
+      {
+        "name": "Bose",
+        "slug": "bose"
+      },
+      {
+        "name": "Apple",
+        "slug": "apple"
+      },
+      {
+        "name": "Samsung",
+        "slug": "samsung"
+      },
+      {
+        "name": "Soundcore",
+        "slug": "soundcore"
+      },
+      {
+        "name": "Beats",
+        "slug": "beats"
+      },
+      {
+        "name": "Skullcandy",
+        "slug": "skullcandy"
+      },
+      {
+        "name": "Sennheiser",
+        "slug": "sennheiser"
+      },
+      {
+        "name": "Nothing",
+        "slug": "nothing"
+      },
+      {
+        "name": "Realme",
+        "slug": "realme"
+      },
+      {
+        "name": "Xiaomi",
+        "slug": "xiaomi"
+      },
+      {
+        "name": "Oraimo",
+        "slug": "oraimo"
+      }
+    ]
+  },
+  "brands": [
+    "Acer",
+    "Apple",
+    "ASUS",
+    "Beats",
+    "boAt",
+    "Bose",
+    "CMF by Nothing",
+    "Cooler Master",
+    "Dell",
+    "Google Pixel",
+    "Honor",
+    "HP",
+    "Huawei",
+    "Infinix",
+    "itel",
+    "JBL",
+    "Lenovo",
+    "LG",
+    "Logitech",
+    "Microsoft",
+    "Motorola",
+    "Noise",
+    "Nokia",
+    "Nothing",
+    "OnePlus",
+    "Oppo",
+    "Oraimo",
+    "Poco",
+    "Realme",
+    "Redmi",
+    "Samsung",
+    "SanDisk",
+    "Seagate",
+    "Sennheiser",
+    "Skullcandy",
+    "Sony",
+    "Soundcore",
+    "Tecno",
+    "Toshiba",
+    "TP-Link",
+    "Vivo",
+    "Xiaomi"
+  ],
+  "products": [
+    {
+      "id": "p-1",
+      "slug": "apple-iphone-17-pro",
+      "brand": "Apple",
+      "name": "Apple iPhone 17 Pro",
+      "category": "mobile-phones",
+      "price": 389999,
+      "retail": 419999,
+      "rating": 4.5,
+      "reviews": 12,
+      "stock": 8,
+      "badge": "New",
+      "color": "#0f172a",
+      "image": "/images/products/catalog-mobile-phones-01.webp",
+      "description": "Apple iPhone 17 Pro is a genuine Apple product for Pakistan. PTA-ready smartphone with a premium display, dependable cameras, strong battery life and official local warranty.",
+      "specs": {
+        "Brand": "Apple",
+        "Model": "Apple iPhone 17 Pro",
+        "Type": "Smartphone",
+        "Network": "4G / 5G",
+        "Warranty": "Official Pakistan warranty",
+        "SIM": "Dual SIM / eSIM"
+      },
+      "variants": [
+        {
+          "id": "apple-iphone-17-pro-standard",
+          "label": "Official PTA Approved",
+          "price": 389999,
+          "stock": 8
+        }
+      ]
+    },
+    {
+      "id": "p-2",
+      "slug": "samsung-galaxy-s26-ultra",
+      "brand": "Samsung",
+      "name": "Samsung Galaxy S26 Ultra",
+      "category": "mobile-phones",
+      "price": 434999,
+      "retail": 459999,
+      "rating": 4.6,
+      "reviews": 29,
+      "stock": 11,
+      "badge": "Featured",
+      "color": "#2563eb",
+      "image": "/images/products/catalog-mobile-phones-02.webp",
+      "description": "Samsung Galaxy S26 Ultra is a genuine Samsung product for Pakistan. PTA-ready smartphone with a premium display, dependable cameras, strong battery life and official local warranty.",
+      "specs": {
+        "Brand": "Samsung",
+        "Model": "Samsung Galaxy S26 Ultra",
+        "Type": "Smartphone",
+        "Network": "4G / 5G",
+        "Warranty": "Official Pakistan warranty",
+        "SIM": "Dual SIM / eSIM"
+      },
+      "variants": [
+        {
+          "id": "samsung-galaxy-s26-ultra-standard",
+          "label": "Official PTA Approved",
+          "price": 434999,
+          "stock": 11
+        }
+      ]
+    },
+    {
+      "id": "p-3",
+      "slug": "xiaomi-16-ultra",
+      "brand": "Xiaomi",
+      "name": "Xiaomi 16 Ultra",
+      "category": "mobile-phones",
+      "price": 329999,
+      "retail": 349999,
+      "rating": 4.7,
+      "reviews": 46,
+      "stock": 14,
+      "badge": "Popular",
+      "color": "#0891b2",
+      "image": "/images/products/catalog-mobile-phones-03.webp",
+      "description": "Xiaomi 16 Ultra is a genuine Xiaomi product for Pakistan. PTA-ready smartphone with a premium display, dependable cameras, strong battery life and official local warranty.",
+      "specs": {
+        "Brand": "Xiaomi",
+        "Model": "Xiaomi 16 Ultra",
+        "Type": "Smartphone",
+        "Network": "4G / 5G",
+        "Warranty": "Official Pakistan warranty",
+        "SIM": "Dual SIM / eSIM"
+      },
+      "variants": [
+        {
+          "id": "xiaomi-16-ultra-standard",
+          "label": "Official PTA Approved",
+          "price": 329999,
+          "stock": 14
+        }
+      ]
+    },
+    {
+      "id": "p-4",
+      "slug": "redmi-note-15-pro-5g",
+      "brand": "Redmi",
+      "name": "Redmi Note 15 Pro+ 5G",
+      "category": "mobile-phones",
+      "price": 149999,
+      "retail": 164999,
+      "rating": 4.8,
+      "reviews": 63,
+      "stock": 17,
+      "badge": "Official",
+      "color": "#7c3aed",
+      "image": "/images/products/catalog-mobile-phones-04.webp",
+      "description": "Redmi Note 15 Pro+ 5G is a genuine Redmi product for Pakistan. PTA-ready smartphone with a premium display, dependable cameras, strong battery life and official local warranty.",
+      "specs": {
+        "Brand": "Redmi",
+        "Model": "Redmi Note 15 Pro+ 5G",
+        "Type": "Smartphone",
+        "Network": "4G / 5G",
+        "Warranty": "Official Pakistan warranty",
+        "SIM": "Dual SIM / eSIM"
+      },
+      "variants": [
+        {
+          "id": "redmi-note-15-pro-5g-standard",
+          "label": "Official PTA Approved",
+          "price": 149999,
+          "stock": 17
+        }
+      ]
+    },
+    {
+      "id": "p-5",
+      "slug": "poco-x8-pro-5g",
+      "brand": "Poco",
+      "name": "Poco X8 Pro 5G",
+      "category": "mobile-phones",
+      "price": 139999,
+      "retail": 154999,
+      "rating": 4.9,
+      "reviews": 80,
+      "stock": 20,
+      "badge": "Fast Delivery",
+      "color": "#ea580c",
+      "image": "/images/products/catalog-mobile-phones-05.webp",
+      "description": "Poco X8 Pro 5G is a genuine Poco product for Pakistan. PTA-ready smartphone with a premium display, dependable cameras, strong battery life and official local warranty.",
+      "specs": {
+        "Brand": "Poco",
+        "Model": "Poco X8 Pro 5G",
+        "Type": "Smartphone",
+        "Network": "4G / 5G",
+        "Warranty": "Official Pakistan warranty",
+        "SIM": "Dual SIM / eSIM"
+      },
+      "variants": [
+        {
+          "id": "poco-x8-pro-5g-standard",
+          "label": "Official PTA Approved",
+          "price": 139999,
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "id": "p-6",
+      "slug": "google-pixel-10-pro",
+      "brand": "Google Pixel",
+      "name": "Google Pixel 10 Pro",
+      "category": "mobile-phones",
+      "price": 319999,
+      "retail": 344999,
+      "rating": 4.5,
+      "reviews": 97,
+      "stock": 23,
+      "badge": "Best Seller",
+      "color": "#059669",
+      "image": "/images/products/catalog-mobile-phones-06.webp",
+      "description": "Google Pixel 10 Pro is a genuine Google Pixel product for Pakistan. PTA-ready smartphone with a premium display, dependable cameras, strong battery life and official local warranty.",
+      "specs": {
+        "Brand": "Google Pixel",
+        "Model": "Google Pixel 10 Pro",
+        "Type": "Smartphone",
+        "Network": "4G / 5G",
+        "Warranty": "Official Pakistan warranty",
+        "SIM": "Dual SIM / eSIM"
+      },
+      "variants": [
+        {
+          "id": "google-pixel-10-pro-standard",
+          "label": "Official PTA Approved",
+          "price": 319999,
+          "stock": 23
+        }
+      ]
+    },
+    {
+      "id": "p-7",
+      "slug": "oneplus-14",
+      "brand": "OnePlus",
+      "name": "OnePlus 14",
+      "category": "mobile-phones",
+      "price": 279999,
+      "retail": 299999,
+      "rating": 4.6,
+      "reviews": 114,
+      "stock": 26,
+      "color": "#334155",
+      "image": "/images/products/catalog-mobile-phones-07.webp",
+      "description": "OnePlus 14 is a genuine OnePlus product for Pakistan. PTA-ready smartphone with a premium display, dependable cameras, strong battery life and official local warranty.",
+      "specs": {
+        "Brand": "OnePlus",
+        "Model": "OnePlus 14",
+        "Type": "Smartphone",
+        "Network": "4G / 5G",
+        "Warranty": "Official Pakistan warranty",
+        "SIM": "Dual SIM / eSIM"
+      },
+      "variants": [
+        {
+          "id": "oneplus-14-standard",
+          "label": "Official PTA Approved",
+          "price": 279999,
+          "stock": 26
+        }
+      ]
+    },
+    {
+      "id": "p-8",
+      "slug": "oppo-find-x9-pro",
+      "brand": "Oppo",
+      "name": "Oppo Find X9 Pro",
+      "category": "mobile-phones",
+      "price": 289999,
+      "retail": 319999,
+      "rating": 4.7,
+      "reviews": 131,
+      "stock": 29,
+      "badge": "Top Rated",
+      "color": "#be123c",
+      "image": "/images/products/catalog-mobile-phones-08.webp",
+      "description": "Oppo Find X9 Pro is a genuine Oppo product for Pakistan. PTA-ready smartphone with a premium display, dependable cameras, strong battery life and official local warranty.",
+      "specs": {
+        "Brand": "Oppo",
+        "Model": "Oppo Find X9 Pro",
+        "Type": "Smartphone",
+        "Network": "4G / 5G",
+        "Warranty": "Official Pakistan warranty",
+        "SIM": "Dual SIM / eSIM"
+      },
+      "variants": [
+        {
+          "id": "oppo-find-x9-pro-standard",
+          "label": "Official PTA Approved",
+          "price": 289999,
+          "stock": 29
+        }
+      ]
+    },
+    {
+      "id": "p-9",
+      "slug": "vivo-x300-pro",
+      "brand": "Vivo",
+      "name": "Vivo X300 Pro",
+      "category": "mobile-phones",
+      "price": 299999,
+      "retail": 329999,
+      "rating": 4.8,
+      "reviews": 148,
+      "stock": 32,
+      "color": "#4f46e5",
+      "image": "/images/products/catalog-mobile-phones-09.webp",
+      "description": "Vivo X300 Pro is a genuine Vivo product for Pakistan. PTA-ready smartphone with a premium display, dependable cameras, strong battery life and official local warranty.",
+      "specs": {
+        "Brand": "Vivo",
+        "Model": "Vivo X300 Pro",
+        "Type": "Smartphone",
+        "Network": "4G / 5G",
+        "Warranty": "Official Pakistan warranty",
+        "SIM": "Dual SIM / eSIM"
+      },
+      "variants": [
+        {
+          "id": "vivo-x300-pro-standard",
+          "label": "Official PTA Approved",
+          "price": 299999,
+          "stock": 32
+        }
+      ]
+    },
+    {
+      "id": "p-10",
+      "slug": "infinix-note-60-pro",
+      "brand": "Infinix",
+      "name": "Infinix Note 60 Pro",
+      "category": "mobile-phones",
+      "price": 94999,
+      "retail": 104999,
+      "rating": 4.9,
+      "reviews": 165,
+      "stock": 35,
+      "badge": "Value Pick",
+      "color": "#0f766e",
+      "image": "/images/products/catalog-mobile-phones-10.webp",
+      "description": "Infinix Note 60 Pro is a genuine Infinix product for Pakistan. PTA-ready smartphone with a premium display, dependable cameras, strong battery life and official local warranty.",
+      "specs": {
+        "Brand": "Infinix",
+        "Model": "Infinix Note 60 Pro",
+        "Type": "Smartphone",
+        "Network": "4G / 5G",
+        "Warranty": "Official Pakistan warranty",
+        "SIM": "Dual SIM / eSIM"
+      },
+      "variants": [
+        {
+          "id": "infinix-note-60-pro-standard",
+          "label": "Official PTA Approved",
+          "price": 94999,
+          "stock": 35
+        }
+      ]
+    },
+    {
+      "id": "p-11",
+      "slug": "apple-macbook-air-13-m5",
+      "brand": "Apple",
+      "name": "Apple MacBook Air 13 M5",
+      "category": "laptops",
+      "price": 399999,
+      "retail": 429999,
+      "rating": 4.6,
+      "reviews": 23,
+      "stock": 15,
+      "badge": "New",
+      "color": "#0f172a",
+      "image": "/images/products/catalog-laptops-01.webp",
+      "description": "Apple MacBook Air 13 M5 is a genuine Apple product for Pakistan. Premium productivity laptop with a sharp display, fast solid-state storage and dependable everyday performance.",
+      "specs": {
+        "Brand": "Apple",
+        "Model": "Apple MacBook Air 13 M5",
+        "Type": "Laptop",
+        "Memory": "16GB",
+        "Storage": "512GB SSD",
+        "Warranty": "Official local warranty"
+      },
+      "variants": [
+        {
+          "id": "apple-macbook-air-13-m5-standard",
+          "label": "16GB · 512GB SSD",
+          "price": 399999,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": "p-12",
+      "slug": "dell-xps-14",
+      "brand": "Dell",
+      "name": "Dell XPS 14",
+      "category": "laptops",
+      "price": 439999,
+      "retail": 469999,
+      "rating": 4.7,
+      "reviews": 40,
+      "stock": 18,
+      "badge": "Featured",
+      "color": "#2563eb",
+      "image": "/images/products/catalog-laptops-02.webp",
+      "description": "Dell XPS 14 is a genuine Dell product for Pakistan. Premium productivity laptop with a sharp display, fast solid-state storage and dependable everyday performance.",
+      "specs": {
+        "Brand": "Dell",
+        "Model": "Dell XPS 14",
+        "Type": "Laptop",
+        "Memory": "16GB",
+        "Storage": "512GB SSD",
+        "Warranty": "Official local warranty"
+      },
+      "variants": [
+        {
+          "id": "dell-xps-14-standard",
+          "label": "16GB · 512GB SSD",
+          "price": 439999,
+          "stock": 18
+        }
+      ]
+    },
+    {
+      "id": "p-13",
+      "slug": "hp-spectre-x360-14",
+      "brand": "HP",
+      "name": "HP Spectre x360 14",
+      "category": "laptops",
+      "price": 419999,
+      "retail": 449999,
+      "rating": 4.8,
+      "reviews": 57,
+      "stock": 21,
+      "badge": "Popular",
+      "color": "#0891b2",
+      "image": "/images/products/catalog-laptops-03.webp",
+      "description": "HP Spectre x360 14 is a genuine HP product for Pakistan. Premium productivity laptop with a sharp display, fast solid-state storage and dependable everyday performance.",
+      "specs": {
+        "Brand": "HP",
+        "Model": "HP Spectre x360 14",
+        "Type": "Laptop",
+        "Memory": "16GB",
+        "Storage": "512GB SSD",
+        "Warranty": "Official local warranty"
+      },
+      "variants": [
+        {
+          "id": "hp-spectre-x360-14-standard",
+          "label": "16GB · 512GB SSD",
+          "price": 419999,
+          "stock": 21
+        }
+      ]
+    },
+    {
+      "id": "p-14",
+      "slug": "lenovo-yoga-9i-2-in-1-gen-11",
+      "brand": "Lenovo",
+      "name": "Lenovo Yoga 9i 2-in-1 Gen 11",
+      "category": "laptops",
+      "price": 449999,
+      "retail": 479999,
+      "rating": 4.9,
+      "reviews": 74,
+      "stock": 24,
+      "badge": "Official",
+      "color": "#7c3aed",
+      "image": "/images/products/catalog-laptops-04.webp",
+      "description": "Lenovo Yoga 9i 2-in-1 Gen 11 is a genuine Lenovo product for Pakistan. Premium productivity laptop with a sharp display, fast solid-state storage and dependable everyday performance.",
+      "specs": {
+        "Brand": "Lenovo",
+        "Model": "Lenovo Yoga 9i 2-in-1 Gen 11",
+        "Type": "Laptop",
+        "Memory": "16GB",
+        "Storage": "512GB SSD",
+        "Warranty": "Official local warranty"
+      },
+      "variants": [
+        {
+          "id": "lenovo-yoga-9i-2-in-1-gen-11-standard",
+          "label": "16GB · 512GB SSD",
+          "price": 449999,
+          "stock": 24
+        }
+      ]
+    },
+    {
+      "id": "p-15",
+      "slug": "asus-zenbook-s-16",
+      "brand": "ASUS",
+      "name": "ASUS Zenbook S 16",
+      "category": "laptops",
+      "price": 399999,
+      "retail": 429999,
+      "rating": 4.5,
+      "reviews": 91,
+      "stock": 27,
+      "badge": "Fast Delivery",
+      "color": "#ea580c",
+      "image": "/images/products/catalog-laptops-05.webp",
+      "description": "ASUS Zenbook S 16 is a genuine ASUS product for Pakistan. Premium productivity laptop with a sharp display, fast solid-state storage and dependable everyday performance.",
+      "specs": {
+        "Brand": "ASUS",
+        "Model": "ASUS Zenbook S 16",
+        "Type": "Laptop",
+        "Memory": "16GB",
+        "Storage": "512GB SSD",
+        "Warranty": "Official local warranty"
+      },
+      "variants": [
+        {
+          "id": "asus-zenbook-s-16-standard",
+          "label": "16GB · 512GB SSD",
+          "price": 399999,
+          "stock": 27
+        }
+      ]
+    },
+    {
+      "id": "p-16",
+      "slug": "acer-swift-16-ai",
+      "brand": "Acer",
+      "name": "Acer Swift 16 AI",
+      "category": "laptops",
+      "price": 349999,
+      "retail": 379999,
+      "rating": 4.6,
+      "reviews": 108,
+      "stock": 30,
+      "badge": "Best Seller",
+      "color": "#059669",
+      "image": "/images/products/catalog-laptops-06.webp",
+      "description": "Acer Swift 16 AI is a genuine Acer product for Pakistan. Premium productivity laptop with a sharp display, fast solid-state storage and dependable everyday performance.",
+      "specs": {
+        "Brand": "Acer",
+        "Model": "Acer Swift 16 AI",
+        "Type": "Laptop",
+        "Memory": "16GB",
+        "Storage": "512GB SSD",
+        "Warranty": "Official local warranty"
+      },
+      "variants": [
+        {
+          "id": "acer-swift-16-ai-standard",
+          "label": "16GB · 512GB SSD",
+          "price": 349999,
+          "stock": 30
+        }
+      ]
+    },
+    {
+      "id": "p-17",
+      "slug": "microsoft-surface-laptop",
+      "brand": "Microsoft",
+      "name": "Microsoft Surface Laptop",
+      "category": "laptops",
+      "price": 419999,
+      "retail": 449999,
+      "rating": 4.7,
+      "reviews": 125,
+      "stock": 33,
+      "color": "#334155",
+      "image": "/images/products/catalog-laptops-07.webp",
+      "description": "Microsoft Surface Laptop is a genuine Microsoft product for Pakistan. Premium productivity laptop with a sharp display, fast solid-state storage and dependable everyday performance.",
+      "specs": {
+        "Brand": "Microsoft",
+        "Model": "Microsoft Surface Laptop",
+        "Type": "Laptop",
+        "Memory": "16GB",
+        "Storage": "512GB SSD",
+        "Warranty": "Official local warranty"
+      },
+      "variants": [
+        {
+          "id": "microsoft-surface-laptop-standard",
+          "label": "16GB · 512GB SSD",
+          "price": 419999,
+          "stock": 33
+        }
+      ]
+    },
+    {
+      "id": "p-18",
+      "slug": "samsung-galaxy-book6-pro",
+      "brand": "Samsung",
+      "name": "Samsung Galaxy Book6 Pro",
+      "category": "laptops",
+      "price": 429999,
+      "retail": 459999,
+      "rating": 4.8,
+      "reviews": 142,
+      "stock": 36,
+      "badge": "Top Rated",
+      "color": "#be123c",
+      "image": "/images/products/catalog-laptops-08.webp",
+      "description": "Samsung Galaxy Book6 Pro is a genuine Samsung product for Pakistan. Premium productivity laptop with a sharp display, fast solid-state storage and dependable everyday performance.",
+      "specs": {
+        "Brand": "Samsung",
+        "Model": "Samsung Galaxy Book6 Pro",
+        "Type": "Laptop",
+        "Memory": "16GB",
+        "Storage": "512GB SSD",
+        "Warranty": "Official local warranty"
+      },
+      "variants": [
+        {
+          "id": "samsung-galaxy-book6-pro-standard",
+          "label": "16GB · 512GB SSD",
+          "price": 429999,
+          "stock": 36
+        }
+      ]
+    },
+    {
+      "id": "p-19",
+      "slug": "lg-gram-pro-17",
+      "brand": "LG",
+      "name": "LG gram Pro 17",
+      "category": "laptops",
+      "price": 469999,
+      "retail": 499999,
+      "rating": 4.9,
+      "reviews": 159,
+      "stock": 10,
+      "color": "#4f46e5",
+      "image": "/images/products/catalog-laptops-09.webp",
+      "description": "LG gram Pro 17 is a genuine LG product for Pakistan. Premium productivity laptop with a sharp display, fast solid-state storage and dependable everyday performance.",
+      "specs": {
+        "Brand": "LG",
+        "Model": "LG gram Pro 17",
+        "Type": "Laptop",
+        "Memory": "16GB",
+        "Storage": "512GB SSD",
+        "Warranty": "Official local warranty"
+      },
+      "variants": [
+        {
+          "id": "lg-gram-pro-17-standard",
+          "label": "16GB · 512GB SSD",
+          "price": 469999,
+          "stock": 10
+        }
+      ]
+    },
+    {
+      "id": "p-20",
+      "slug": "huawei-matebook-x-pro",
+      "brand": "Huawei",
+      "name": "Huawei MateBook X Pro",
+      "category": "laptops",
+      "price": 449999,
+      "retail": 479999,
+      "rating": 4.5,
+      "reviews": 16,
+      "stock": 13,
+      "badge": "Value Pick",
+      "color": "#0f766e",
+      "image": "/images/products/catalog-laptops-10.webp",
+      "description": "Huawei MateBook X Pro is a genuine Huawei product for Pakistan. Premium productivity laptop with a sharp display, fast solid-state storage and dependable everyday performance.",
+      "specs": {
+        "Brand": "Huawei",
+        "Model": "Huawei MateBook X Pro",
+        "Type": "Laptop",
+        "Memory": "16GB",
+        "Storage": "512GB SSD",
+        "Warranty": "Official local warranty"
+      },
+      "variants": [
+        {
+          "id": "huawei-matebook-x-pro-standard",
+          "label": "16GB · 512GB SSD",
+          "price": 449999,
+          "stock": 13
+        }
+      ]
+    },
+    {
+      "id": "p-21",
+      "slug": "apple-mac-mini",
+      "brand": "Apple",
+      "name": "Apple Mac mini",
+      "category": "desktops",
+      "price": 219999,
+      "retail": 239999,
+      "rating": 4.7,
+      "reviews": 34,
+      "stock": 22,
+      "badge": "New",
+      "color": "#0f172a",
+      "image": "/images/products/catalog-desktops-01.webp",
+      "description": "Apple Mac mini is a genuine Apple product for Pakistan. Modern desktop computer configured for work, study, creative tasks and dependable long-term performance.",
+      "specs": {
+        "Brand": "Apple",
+        "Model": "Apple Mac mini",
+        "Type": "Desktop PC",
+        "Memory": "16GB",
+        "Storage": "512GB SSD",
+        "Warranty": "Official local warranty"
+      },
+      "variants": [
+        {
+          "id": "apple-mac-mini-standard",
+          "label": "16GB · 512GB SSD",
+          "price": 219999,
+          "stock": 22
+        }
+      ]
+    },
+    {
+      "id": "p-22",
+      "slug": "apple-imac-24",
+      "brand": "Apple",
+      "name": "Apple iMac 24",
+      "category": "desktops",
+      "price": 479999,
+      "retail": 509999,
+      "rating": 4.8,
+      "reviews": 51,
+      "stock": 25,
+      "badge": "Featured",
+      "color": "#2563eb",
+      "image": "/images/products/catalog-desktops-02.webp",
+      "description": "Apple iMac 24 is a genuine Apple product for Pakistan. Modern desktop computer configured for work, study, creative tasks and dependable long-term performance.",
+      "specs": {
+        "Brand": "Apple",
+        "Model": "Apple iMac 24",
+        "Type": "Desktop PC",
+        "Memory": "16GB",
+        "Storage": "512GB SSD",
+        "Warranty": "Official local warranty"
+      },
+      "variants": [
+        {
+          "id": "apple-imac-24-standard",
+          "label": "16GB · 512GB SSD",
+          "price": 479999,
+          "stock": 25
+        }
+      ]
+    },
+    {
+      "id": "p-23",
+      "slug": "dell-xps-desktop",
+      "brand": "Dell",
+      "name": "Dell XPS Desktop",
+      "category": "desktops",
+      "price": 379999,
+      "retail": 409999,
+      "rating": 4.9,
+      "reviews": 68,
+      "stock": 28,
+      "badge": "Popular",
+      "color": "#0891b2",
+      "image": "/images/products/catalog-desktops-03.webp",
+      "description": "Dell XPS Desktop is a genuine Dell product for Pakistan. Modern desktop computer configured for work, study, creative tasks and dependable long-term performance.",
+      "specs": {
+        "Brand": "Dell",
+        "Model": "Dell XPS Desktop",
+        "Type": "Desktop PC",
+        "Memory": "16GB",
+        "Storage": "512GB SSD",
+        "Warranty": "Official local warranty"
+      },
+      "variants": [
+        {
+          "id": "dell-xps-desktop-standard",
+          "label": "16GB · 512GB SSD",
+          "price": 379999,
+          "stock": 28
+        }
+      ]
+    },
+    {
+      "id": "p-24",
+      "slug": "dell-optiplex-7020-tower",
+      "brand": "Dell",
+      "name": "Dell OptiPlex 7020 Tower",
+      "category": "desktops",
+      "price": 249999,
+      "retail": 269999,
+      "rating": 4.5,
+      "reviews": 85,
+      "stock": 31,
+      "badge": "Official",
+      "color": "#7c3aed",
+      "image": "/images/products/catalog-desktops-04.webp",
+      "description": "Dell OptiPlex 7020 Tower is a genuine Dell product for Pakistan. Modern desktop computer configured for work, study, creative tasks and dependable long-term performance.",
+      "specs": {
+        "Brand": "Dell",
+        "Model": "Dell OptiPlex 7020 Tower",
+        "Type": "Desktop PC",
+        "Memory": "16GB",
+        "Storage": "512GB SSD",
+        "Warranty": "Official local warranty"
+      },
+      "variants": [
+        {
+          "id": "dell-optiplex-7020-tower-standard",
+          "label": "16GB · 512GB SSD",
+          "price": 249999,
+          "stock": 31
+        }
+      ]
+    },
+    {
+      "id": "p-25",
+      "slug": "hp-omen-35l-gaming-desktop",
+      "brand": "HP",
+      "name": "HP OMEN 35L Gaming Desktop",
+      "category": "desktops",
+      "price": 499999,
+      "retail": 539999,
+      "rating": 4.6,
+      "reviews": 102,
+      "stock": 34,
+      "badge": "Fast Delivery",
+      "color": "#ea580c",
+      "image": "/images/products/catalog-desktops-05.webp",
+      "description": "HP OMEN 35L Gaming Desktop is a genuine HP product for Pakistan. Modern desktop computer configured for work, study, creative tasks and dependable long-term performance.",
+      "specs": {
+        "Brand": "HP",
+        "Model": "HP OMEN 35L Gaming Desktop",
+        "Type": "Desktop PC",
+        "Memory": "16GB",
+        "Storage": "512GB SSD",
+        "Warranty": "Official local warranty"
+      },
+      "variants": [
+        {
+          "id": "hp-omen-35l-gaming-desktop-standard",
+          "label": "16GB · 512GB SSD",
+          "price": 499999,
+          "stock": 34
+        }
+      ]
+    },
+    {
+      "id": "p-26",
+      "slug": "hp-elite-mini-800-g9",
+      "brand": "HP",
+      "name": "HP Elite Mini 800 G9",
+      "category": "desktops",
+      "price": 289999,
+      "retail": 309999,
+      "rating": 4.7,
+      "reviews": 119,
+      "stock": 8,
+      "badge": "Best Seller",
+      "color": "#059669",
+      "image": "/images/products/catalog-desktops-06.webp",
+      "description": "HP Elite Mini 800 G9 is a genuine HP product for Pakistan. Modern desktop computer configured for work, study, creative tasks and dependable long-term performance.",
+      "specs": {
+        "Brand": "HP",
+        "Model": "HP Elite Mini 800 G9",
+        "Type": "Desktop PC",
+        "Memory": "16GB",
+        "Storage": "512GB SSD",
+        "Warranty": "Official local warranty"
+      },
+      "variants": [
+        {
+          "id": "hp-elite-mini-800-g9-standard",
+          "label": "16GB · 512GB SSD",
+          "price": 289999,
+          "stock": 8
+        }
+      ]
+    },
+    {
+      "id": "p-27",
+      "slug": "lenovo-legion-tower-5",
+      "brand": "Lenovo",
+      "name": "Lenovo Legion Tower 5",
+      "category": "desktops",
+      "price": 449999,
+      "retail": 479999,
+      "rating": 4.8,
+      "reviews": 136,
+      "stock": 11,
+      "color": "#334155",
+      "image": "/images/products/catalog-desktops-07.webp",
+      "description": "Lenovo Legion Tower 5 is a genuine Lenovo product for Pakistan. Modern desktop computer configured for work, study, creative tasks and dependable long-term performance.",
+      "specs": {
+        "Brand": "Lenovo",
+        "Model": "Lenovo Legion Tower 5",
+        "Type": "Desktop PC",
+        "Memory": "16GB",
+        "Storage": "512GB SSD",
+        "Warranty": "Official local warranty"
+      },
+      "variants": [
+        {
+          "id": "lenovo-legion-tower-5-standard",
+          "label": "16GB · 512GB SSD",
+          "price": 449999,
+          "stock": 11
+        }
+      ]
+    },
+    {
+      "id": "p-28",
+      "slug": "lenovo-thinkcentre-m90q",
+      "brand": "Lenovo",
+      "name": "Lenovo ThinkCentre M90q",
+      "category": "desktops",
+      "price": 299999,
+      "retail": 319999,
+      "rating": 4.9,
+      "reviews": 153,
+      "stock": 14,
+      "badge": "Top Rated",
+      "color": "#be123c",
+      "image": "/images/products/catalog-desktops-08.webp",
+      "description": "Lenovo ThinkCentre M90q is a genuine Lenovo product for Pakistan. Modern desktop computer configured for work, study, creative tasks and dependable long-term performance.",
+      "specs": {
+        "Brand": "Lenovo",
+        "Model": "Lenovo ThinkCentre M90q",
+        "Type": "Desktop PC",
+        "Memory": "16GB",
+        "Storage": "512GB SSD",
+        "Warranty": "Official local warranty"
+      },
+      "variants": [
+        {
+          "id": "lenovo-thinkcentre-m90q-standard",
+          "label": "16GB · 512GB SSD",
+          "price": 299999,
+          "stock": 14
+        }
+      ]
+    },
+    {
+      "id": "p-29",
+      "slug": "asus-rog-g700-gaming-desktop",
+      "brand": "ASUS",
+      "name": "ASUS ROG G700 Gaming Desktop",
+      "category": "desktops",
+      "price": 589999,
+      "retail": 629999,
+      "rating": 4.5,
+      "reviews": 170,
+      "stock": 17,
+      "color": "#4f46e5",
+      "image": "/images/products/catalog-desktops-09.webp",
+      "description": "ASUS ROG G700 Gaming Desktop is a genuine ASUS product for Pakistan. Modern desktop computer configured for work, study, creative tasks and dependable long-term performance.",
+      "specs": {
+        "Brand": "ASUS",
+        "Model": "ASUS ROG G700 Gaming Desktop",
+        "Type": "Desktop PC",
+        "Memory": "16GB",
+        "Storage": "512GB SSD",
+        "Warranty": "Official local warranty"
+      },
+      "variants": [
+        {
+          "id": "asus-rog-g700-gaming-desktop-standard",
+          "label": "16GB · 512GB SSD",
+          "price": 589999,
+          "stock": 17
+        }
+      ]
+    },
+    {
+      "id": "p-30",
+      "slug": "acer-predator-orion-7000",
+      "brand": "Acer",
+      "name": "Acer Predator Orion 7000",
+      "category": "desktops",
+      "price": 649999,
+      "retail": 699999,
+      "rating": 4.6,
+      "reviews": 27,
+      "stock": 20,
+      "badge": "Value Pick",
+      "color": "#0f766e",
+      "image": "/images/products/catalog-desktops-10.webp",
+      "description": "Acer Predator Orion 7000 is a genuine Acer product for Pakistan. Modern desktop computer configured for work, study, creative tasks and dependable long-term performance.",
+      "specs": {
+        "Brand": "Acer",
+        "Model": "Acer Predator Orion 7000",
+        "Type": "Desktop PC",
+        "Memory": "16GB",
+        "Storage": "512GB SSD",
+        "Warranty": "Official local warranty"
+      },
+      "variants": [
+        {
+          "id": "acer-predator-orion-7000-standard",
+          "label": "16GB · 512GB SSD",
+          "price": 649999,
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "id": "p-31",
+      "slug": "apple-magsafe-charger",
+      "brand": "Apple",
+      "name": "Apple MagSafe Charger",
+      "category": "mobile-accessories",
+      "price": 14999,
+      "retail": 16999,
+      "rating": 4.8,
+      "reviews": 45,
+      "stock": 29,
+      "badge": "New",
+      "color": "#0f172a",
+      "image": "/images/products/catalog-mobile-accessories-01.webp",
+      "description": "Apple MagSafe Charger is a genuine Apple product for Pakistan. Authentic mobile accessory selected for safe charging, reliable connectivity and everyday portability.",
+      "specs": {
+        "Brand": "Apple",
+        "Model": "Apple MagSafe Charger",
+        "Type": "Mobile accessory",
+        "Compatibility": "Universal / brand supported",
+        "Condition": "Brand new",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "apple-magsafe-charger-standard",
+          "label": "Standard",
+          "price": 14999,
+          "stock": 29
+        }
+      ]
+    },
+    {
+      "id": "p-32",
+      "slug": "apple-20w-usb-c-power-adapter",
+      "brand": "Apple",
+      "name": "Apple 20W USB-C Power Adapter",
+      "category": "mobile-accessories",
+      "price": 8499,
+      "retail": 9499,
+      "rating": 4.9,
+      "reviews": 62,
+      "stock": 32,
+      "badge": "Featured",
+      "color": "#2563eb",
+      "image": "/images/products/catalog-mobile-accessories-02.webp",
+      "description": "Apple 20W USB-C Power Adapter is a genuine Apple product for Pakistan. Authentic mobile accessory selected for safe charging, reliable connectivity and everyday portability.",
+      "specs": {
+        "Brand": "Apple",
+        "Model": "Apple 20W USB-C Power Adapter",
+        "Type": "Mobile accessory",
+        "Compatibility": "Universal / brand supported",
+        "Condition": "Brand new",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "apple-20w-usb-c-power-adapter-standard",
+          "label": "Standard",
+          "price": 8499,
+          "stock": 32
+        }
+      ]
+    },
+    {
+      "id": "p-33",
+      "slug": "samsung-45w-power-adapter",
+      "brand": "Samsung",
+      "name": "Samsung 45W Power Adapter",
+      "category": "mobile-accessories",
+      "price": 12999,
+      "retail": 14999,
+      "rating": 4.5,
+      "reviews": 79,
+      "stock": 35,
+      "badge": "Popular",
+      "color": "#0891b2",
+      "image": "/images/products/catalog-mobile-accessories-03.webp",
+      "description": "Samsung 45W Power Adapter is a genuine Samsung product for Pakistan. Authentic mobile accessory selected for safe charging, reliable connectivity and everyday portability.",
+      "specs": {
+        "Brand": "Samsung",
+        "Model": "Samsung 45W Power Adapter",
+        "Type": "Mobile accessory",
+        "Compatibility": "Universal / brand supported",
+        "Condition": "Brand new",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "samsung-45w-power-adapter-standard",
+          "label": "Standard",
+          "price": 12999,
+          "stock": 35
+        }
+      ]
+    },
+    {
+      "id": "p-34",
+      "slug": "samsung-wireless-charger-duo",
+      "brand": "Samsung",
+      "name": "Samsung Wireless Charger Duo",
+      "category": "mobile-accessories",
+      "price": 18999,
+      "retail": 21999,
+      "rating": 4.6,
+      "reviews": 96,
+      "stock": 9,
+      "badge": "Official",
+      "color": "#7c3aed",
+      "image": "/images/products/catalog-mobile-accessories-04.webp",
+      "description": "Samsung Wireless Charger Duo is a genuine Samsung product for Pakistan. Authentic mobile accessory selected for safe charging, reliable connectivity and everyday portability.",
+      "specs": {
+        "Brand": "Samsung",
+        "Model": "Samsung Wireless Charger Duo",
+        "Type": "Mobile accessory",
+        "Compatibility": "Universal / brand supported",
+        "Condition": "Brand new",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "samsung-wireless-charger-duo-standard",
+          "label": "Standard",
+          "price": 18999,
+          "stock": 9
+        }
+      ]
+    },
+    {
+      "id": "p-35",
+      "slug": "xiaomi-67w-gan-charger",
+      "brand": "Xiaomi",
+      "name": "Xiaomi 67W GaN Charger",
+      "category": "mobile-accessories",
+      "price": 10999,
+      "retail": 12999,
+      "rating": 4.7,
+      "reviews": 113,
+      "stock": 12,
+      "badge": "Fast Delivery",
+      "color": "#ea580c",
+      "image": "/images/products/catalog-mobile-accessories-05.webp",
+      "description": "Xiaomi 67W GaN Charger is a genuine Xiaomi product for Pakistan. Authentic mobile accessory selected for safe charging, reliable connectivity and everyday portability.",
+      "specs": {
+        "Brand": "Xiaomi",
+        "Model": "Xiaomi 67W GaN Charger",
+        "Type": "Mobile accessory",
+        "Compatibility": "Universal / brand supported",
+        "Condition": "Brand new",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "xiaomi-67w-gan-charger-standard",
+          "label": "Standard",
+          "price": 10999,
+          "stock": 12
+        }
+      ]
+    },
+    {
+      "id": "p-36",
+      "slug": "xiaomi-20000mah-power-bank",
+      "brand": "Xiaomi",
+      "name": "Xiaomi 20000mAh Power Bank",
+      "category": "mobile-accessories",
+      "price": 13999,
+      "retail": 15999,
+      "rating": 4.8,
+      "reviews": 130,
+      "stock": 15,
+      "badge": "Best Seller",
+      "color": "#059669",
+      "image": "/images/products/catalog-mobile-accessories-06.webp",
+      "description": "Xiaomi 20000mAh Power Bank is a genuine Xiaomi product for Pakistan. Authentic mobile accessory selected for safe charging, reliable connectivity and everyday portability.",
+      "specs": {
+        "Brand": "Xiaomi",
+        "Model": "Xiaomi 20000mAh Power Bank",
+        "Type": "Mobile accessory",
+        "Compatibility": "Universal / brand supported",
+        "Condition": "Brand new",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "xiaomi-20000mah-power-bank-standard",
+          "label": "Standard",
+          "price": 13999,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": "p-37",
+      "slug": "jbl-go-4-portable-speaker",
+      "brand": "JBL",
+      "name": "JBL Go 4 Portable Speaker",
+      "category": "mobile-accessories",
+      "price": 17999,
+      "retail": 19999,
+      "rating": 4.9,
+      "reviews": 147,
+      "stock": 18,
+      "color": "#334155",
+      "image": "/images/products/catalog-mobile-accessories-07.webp",
+      "description": "JBL Go 4 Portable Speaker is a genuine JBL product for Pakistan. Authentic mobile accessory selected for safe charging, reliable connectivity and everyday portability.",
+      "specs": {
+        "Brand": "JBL",
+        "Model": "JBL Go 4 Portable Speaker",
+        "Type": "Mobile accessory",
+        "Compatibility": "Universal / brand supported",
+        "Condition": "Brand new",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "jbl-go-4-portable-speaker-standard",
+          "label": "Standard",
+          "price": 17999,
+          "stock": 18
+        }
+      ]
+    },
+    {
+      "id": "p-38",
+      "slug": "sony-wf-c710n-earbuds",
+      "brand": "Sony",
+      "name": "Sony WF-C710N Earbuds",
+      "category": "mobile-accessories",
+      "price": 24999,
+      "retail": 27999,
+      "rating": 4.5,
+      "reviews": 164,
+      "stock": 21,
+      "badge": "Top Rated",
+      "color": "#be123c",
+      "image": "/images/products/catalog-mobile-accessories-08.webp",
+      "description": "Sony WF-C710N Earbuds is a genuine Sony product for Pakistan. Authentic mobile accessory selected for safe charging, reliable connectivity and everyday portability.",
+      "specs": {
+        "Brand": "Sony",
+        "Model": "Sony WF-C710N Earbuds",
+        "Type": "Mobile accessory",
+        "Compatibility": "Universal / brand supported",
+        "Condition": "Brand new",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "sony-wf-c710n-earbuds-standard",
+          "label": "Standard",
+          "price": 24999,
+          "stock": 21
+        }
+      ]
+    },
+    {
+      "id": "p-39",
+      "slug": "soundcore-maggo-power-bank",
+      "brand": "Soundcore",
+      "name": "Soundcore MagGo Power Bank",
+      "category": "mobile-accessories",
+      "price": 16999,
+      "retail": 18999,
+      "rating": 4.6,
+      "reviews": 21,
+      "stock": 24,
+      "color": "#4f46e5",
+      "image": "/images/products/catalog-mobile-accessories-09.webp",
+      "description": "Soundcore MagGo Power Bank is a genuine Soundcore product for Pakistan. Authentic mobile accessory selected for safe charging, reliable connectivity and everyday portability.",
+      "specs": {
+        "Brand": "Soundcore",
+        "Model": "Soundcore MagGo Power Bank",
+        "Type": "Mobile accessory",
+        "Compatibility": "Universal / brand supported",
+        "Condition": "Brand new",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "soundcore-maggo-power-bank-standard",
+          "label": "Standard",
+          "price": 16999,
+          "stock": 24
+        }
+      ]
+    },
+    {
+      "id": "p-40",
+      "slug": "soundcore-select-4-go-speaker",
+      "brand": "Soundcore",
+      "name": "Soundcore Select 4 Go Speaker",
+      "category": "mobile-accessories",
+      "price": 10999,
+      "retail": 12999,
+      "rating": 4.7,
+      "reviews": 38,
+      "stock": 27,
+      "badge": "Value Pick",
+      "color": "#0f766e",
+      "image": "/images/products/catalog-mobile-accessories-10.webp",
+      "description": "Soundcore Select 4 Go Speaker is a genuine Soundcore product for Pakistan. Authentic mobile accessory selected for safe charging, reliable connectivity and everyday portability.",
+      "specs": {
+        "Brand": "Soundcore",
+        "Model": "Soundcore Select 4 Go Speaker",
+        "Type": "Mobile accessory",
+        "Compatibility": "Universal / brand supported",
+        "Condition": "Brand new",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "soundcore-select-4-go-speaker-standard",
+          "label": "Standard",
+          "price": 10999,
+          "stock": 27
+        }
+      ]
+    },
+    {
+      "id": "p-41",
+      "slug": "logitech-mx-master-3s",
+      "brand": "Logitech",
+      "name": "Logitech MX Master 3S",
+      "category": "laptop-accessories",
+      "price": 28999,
+      "retail": 31999,
+      "rating": 4.9,
+      "reviews": 56,
+      "stock": 36,
+      "badge": "New",
+      "color": "#0f172a",
+      "image": "/images/products/catalog-laptop-accessories-01.webp",
+      "description": "Logitech MX Master 3S is a genuine Logitech product for Pakistan. Reliable laptop accessory for a cleaner workspace, faster connectivity, storage or everyday productivity.",
+      "specs": {
+        "Brand": "Logitech",
+        "Model": "Logitech MX Master 3S",
+        "Type": "Laptop accessory",
+        "Connectivity": "USB-C / wireless as applicable",
+        "Condition": "Brand new",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "logitech-mx-master-3s-standard",
+          "label": "Standard",
+          "price": 28999,
+          "stock": 36
+        }
+      ]
+    },
+    {
+      "id": "p-42",
+      "slug": "logitech-mx-keys-s",
+      "brand": "Logitech",
+      "name": "Logitech MX Keys S",
+      "category": "laptop-accessories",
+      "price": 32999,
+      "retail": 35999,
+      "rating": 4.5,
+      "reviews": 73,
+      "stock": 10,
+      "badge": "Featured",
+      "color": "#2563eb",
+      "image": "/images/products/catalog-laptop-accessories-02.webp",
+      "description": "Logitech MX Keys S is a genuine Logitech product for Pakistan. Reliable laptop accessory for a cleaner workspace, faster connectivity, storage or everyday productivity.",
+      "specs": {
+        "Brand": "Logitech",
+        "Model": "Logitech MX Keys S",
+        "Type": "Laptop accessory",
+        "Connectivity": "USB-C / wireless as applicable",
+        "Condition": "Brand new",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "logitech-mx-keys-s-standard",
+          "label": "Standard",
+          "price": 32999,
+          "stock": 10
+        }
+      ]
+    },
+    {
+      "id": "p-43",
+      "slug": "hp-usb-c-dock-g5",
+      "brand": "HP",
+      "name": "HP USB-C Dock G5",
+      "category": "laptop-accessories",
+      "price": 39999,
+      "retail": 44999,
+      "rating": 4.6,
+      "reviews": 90,
+      "stock": 13,
+      "badge": "Popular",
+      "color": "#0891b2",
+      "image": "/images/products/catalog-laptop-accessories-03.webp",
+      "description": "HP USB-C Dock G5 is a genuine HP product for Pakistan. Reliable laptop accessory for a cleaner workspace, faster connectivity, storage or everyday productivity.",
+      "specs": {
+        "Brand": "HP",
+        "Model": "HP USB-C Dock G5",
+        "Type": "Laptop accessory",
+        "Connectivity": "USB-C / wireless as applicable",
+        "Condition": "Brand new",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "hp-usb-c-dock-g5-standard",
+          "label": "Standard",
+          "price": 39999,
+          "stock": 13
+        }
+      ]
+    },
+    {
+      "id": "p-44",
+      "slug": "dell-thunderbolt-dock-wd22tb4",
+      "brand": "Dell",
+      "name": "Dell Thunderbolt Dock WD22TB4",
+      "category": "laptop-accessories",
+      "price": 64999,
+      "retail": 69999,
+      "rating": 4.7,
+      "reviews": 107,
+      "stock": 16,
+      "badge": "Official",
+      "color": "#7c3aed",
+      "image": "/images/products/catalog-laptop-accessories-04.webp",
+      "description": "Dell Thunderbolt Dock WD22TB4 is a genuine Dell product for Pakistan. Reliable laptop accessory for a cleaner workspace, faster connectivity, storage or everyday productivity.",
+      "specs": {
+        "Brand": "Dell",
+        "Model": "Dell Thunderbolt Dock WD22TB4",
+        "Type": "Laptop accessory",
+        "Connectivity": "USB-C / wireless as applicable",
+        "Condition": "Brand new",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "dell-thunderbolt-dock-wd22tb4-standard",
+          "label": "Standard",
+          "price": 64999,
+          "stock": 16
+        }
+      ]
+    },
+    {
+      "id": "p-45",
+      "slug": "lenovo-universal-usb-c-dock",
+      "brand": "Lenovo",
+      "name": "Lenovo Universal USB-C Dock",
+      "category": "laptop-accessories",
+      "price": 42999,
+      "retail": 46999,
+      "rating": 4.8,
+      "reviews": 124,
+      "stock": 19,
+      "badge": "Fast Delivery",
+      "color": "#ea580c",
+      "image": "/images/products/catalog-laptop-accessories-05.webp",
+      "description": "Lenovo Universal USB-C Dock is a genuine Lenovo product for Pakistan. Reliable laptop accessory for a cleaner workspace, faster connectivity, storage or everyday productivity.",
+      "specs": {
+        "Brand": "Lenovo",
+        "Model": "Lenovo Universal USB-C Dock",
+        "Type": "Laptop accessory",
+        "Connectivity": "USB-C / wireless as applicable",
+        "Condition": "Brand new",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "lenovo-universal-usb-c-dock-standard",
+          "label": "Standard",
+          "price": 42999,
+          "stock": 19
+        }
+      ]
+    },
+    {
+      "id": "p-46",
+      "slug": "asus-rog-strix-scope-ii-keyboard",
+      "brand": "ASUS",
+      "name": "ASUS ROG Strix Scope II Keyboard",
+      "category": "laptop-accessories",
+      "price": 44999,
+      "retail": 48999,
+      "rating": 4.9,
+      "reviews": 141,
+      "stock": 22,
+      "badge": "Best Seller",
+      "color": "#059669",
+      "image": "/images/products/catalog-laptop-accessories-06.webp",
+      "description": "ASUS ROG Strix Scope II Keyboard is a genuine ASUS product for Pakistan. Reliable laptop accessory for a cleaner workspace, faster connectivity, storage or everyday productivity.",
+      "specs": {
+        "Brand": "ASUS",
+        "Model": "ASUS ROG Strix Scope II Keyboard",
+        "Type": "Laptop accessory",
+        "Connectivity": "USB-C / wireless as applicable",
+        "Condition": "Brand new",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "asus-rog-strix-scope-ii-keyboard-standard",
+          "label": "Standard",
+          "price": 44999,
+          "stock": 22
+        }
+      ]
+    },
+    {
+      "id": "p-47",
+      "slug": "acer-usb-type-c-dock-iii",
+      "brand": "Acer",
+      "name": "Acer USB Type-C Dock III",
+      "category": "laptop-accessories",
+      "price": 36999,
+      "retail": 39999,
+      "rating": 4.5,
+      "reviews": 158,
+      "stock": 25,
+      "color": "#334155",
+      "image": "/images/products/catalog-laptop-accessories-07.webp",
+      "description": "Acer USB Type-C Dock III is a genuine Acer product for Pakistan. Reliable laptop accessory for a cleaner workspace, faster connectivity, storage or everyday productivity.",
+      "specs": {
+        "Brand": "Acer",
+        "Model": "Acer USB Type-C Dock III",
+        "Type": "Laptop accessory",
+        "Connectivity": "USB-C / wireless as applicable",
+        "Condition": "Brand new",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "acer-usb-type-c-dock-iii-standard",
+          "label": "Standard",
+          "price": 36999,
+          "stock": 25
+        }
+      ]
+    },
+    {
+      "id": "p-48",
+      "slug": "microsoft-surface-arc-mouse",
+      "brand": "Microsoft",
+      "name": "Microsoft Surface Arc Mouse",
+      "category": "laptop-accessories",
+      "price": 22999,
+      "retail": 24999,
+      "rating": 4.6,
+      "reviews": 15,
+      "stock": 28,
+      "badge": "Top Rated",
+      "color": "#be123c",
+      "image": "/images/products/catalog-laptop-accessories-08.webp",
+      "description": "Microsoft Surface Arc Mouse is a genuine Microsoft product for Pakistan. Reliable laptop accessory for a cleaner workspace, faster connectivity, storage or everyday productivity.",
+      "specs": {
+        "Brand": "Microsoft",
+        "Model": "Microsoft Surface Arc Mouse",
+        "Type": "Laptop accessory",
+        "Connectivity": "USB-C / wireless as applicable",
+        "Condition": "Brand new",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "microsoft-surface-arc-mouse-standard",
+          "label": "Standard",
+          "price": 22999,
+          "stock": 28
+        }
+      ]
+    },
+    {
+      "id": "p-49",
+      "slug": "sandisk-extreme-portable-ssd-1tb",
+      "brand": "SanDisk",
+      "name": "SanDisk Extreme Portable SSD 1TB",
+      "category": "laptop-accessories",
+      "price": 34999,
+      "retail": 38999,
+      "rating": 4.7,
+      "reviews": 32,
+      "stock": 31,
+      "color": "#4f46e5",
+      "image": "/images/products/catalog-laptop-accessories-09.webp",
+      "description": "SanDisk Extreme Portable SSD 1TB is a genuine SanDisk product for Pakistan. Reliable laptop accessory for a cleaner workspace, faster connectivity, storage or everyday productivity.",
+      "specs": {
+        "Brand": "SanDisk",
+        "Model": "SanDisk Extreme Portable SSD 1TB",
+        "Type": "Laptop accessory",
+        "Connectivity": "USB-C / wireless as applicable",
+        "Condition": "Brand new",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "sandisk-extreme-portable-ssd-1tb-standard",
+          "label": "Standard",
+          "price": 34999,
+          "stock": 31
+        }
+      ]
+    },
+    {
+      "id": "p-50",
+      "slug": "samsung-portable-ssd-t9-1tb",
+      "brand": "Samsung",
+      "name": "Samsung Portable SSD T9 1TB",
+      "category": "laptop-accessories",
+      "price": 39999,
+      "retail": 43999,
+      "rating": 4.8,
+      "reviews": 49,
+      "stock": 34,
+      "badge": "Value Pick",
+      "color": "#0f766e",
+      "image": "/images/products/catalog-laptop-accessories-10.webp",
+      "description": "Samsung Portable SSD T9 1TB is a genuine Samsung product for Pakistan. Reliable laptop accessory for a cleaner workspace, faster connectivity, storage or everyday productivity.",
+      "specs": {
+        "Brand": "Samsung",
+        "Model": "Samsung Portable SSD T9 1TB",
+        "Type": "Laptop accessory",
+        "Connectivity": "USB-C / wireless as applicable",
+        "Condition": "Brand new",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "samsung-portable-ssd-t9-1tb-standard",
+          "label": "Standard",
+          "price": 39999,
+          "stock": 34
+        }
+      ]
+    },
+    {
+      "id": "p-51",
+      "slug": "apple-watch-series-11",
+      "brand": "Apple",
+      "name": "Apple Watch Series 11",
+      "category": "smartwatches",
+      "price": 124999,
+      "retail": 139999,
+      "rating": 4.5,
+      "reviews": 67,
+      "stock": 14,
+      "badge": "New",
+      "color": "#0f172a",
+      "image": "/images/products/catalog-smartwatches-01.webp",
+      "description": "Apple Watch Series 11 is a genuine Apple product for Pakistan. Modern smartwatch with activity tracking, notifications and a bright, durable everyday display.",
+      "specs": {
+        "Brand": "Apple",
+        "Model": "Apple Watch Series 11",
+        "Type": "Smartwatch",
+        "Tracking": "Health and activity",
+        "Wireless": "Bluetooth",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "apple-watch-series-11-standard",
+          "label": "Standard",
+          "price": 124999,
+          "stock": 14
+        }
+      ]
+    },
+    {
+      "id": "p-52",
+      "slug": "apple-watch-ultra-3",
+      "brand": "Apple",
+      "name": "Apple Watch Ultra 3",
+      "category": "smartwatches",
+      "price": 279999,
+      "retail": 299999,
+      "rating": 4.6,
+      "reviews": 84,
+      "stock": 17,
+      "badge": "Featured",
+      "color": "#2563eb",
+      "image": "/images/products/catalog-smartwatches-02.webp",
+      "description": "Apple Watch Ultra 3 is a genuine Apple product for Pakistan. Modern smartwatch with activity tracking, notifications and a bright, durable everyday display.",
+      "specs": {
+        "Brand": "Apple",
+        "Model": "Apple Watch Ultra 3",
+        "Type": "Smartwatch",
+        "Tracking": "Health and activity",
+        "Wireless": "Bluetooth",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "apple-watch-ultra-3-standard",
+          "label": "Standard",
+          "price": 279999,
+          "stock": 17
+        }
+      ]
+    },
+    {
+      "id": "p-53",
+      "slug": "samsung-galaxy-watch8",
+      "brand": "Samsung",
+      "name": "Samsung Galaxy Watch8",
+      "category": "smartwatches",
+      "price": 94999,
+      "retail": 109999,
+      "rating": 4.7,
+      "reviews": 101,
+      "stock": 20,
+      "badge": "Popular",
+      "color": "#0891b2",
+      "image": "/images/products/catalog-smartwatches-03.webp",
+      "description": "Samsung Galaxy Watch8 is a genuine Samsung product for Pakistan. Modern smartwatch with activity tracking, notifications and a bright, durable everyday display.",
+      "specs": {
+        "Brand": "Samsung",
+        "Model": "Samsung Galaxy Watch8",
+        "Type": "Smartwatch",
+        "Tracking": "Health and activity",
+        "Wireless": "Bluetooth",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "samsung-galaxy-watch8-standard",
+          "label": "Standard",
+          "price": 94999,
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "id": "p-54",
+      "slug": "samsung-galaxy-watch-ultra",
+      "brand": "Samsung",
+      "name": "Samsung Galaxy Watch Ultra",
+      "category": "smartwatches",
+      "price": 179999,
+      "retail": 199999,
+      "rating": 4.8,
+      "reviews": 118,
+      "stock": 23,
+      "badge": "Official",
+      "color": "#7c3aed",
+      "image": "/images/products/catalog-smartwatches-04.webp",
+      "description": "Samsung Galaxy Watch Ultra is a genuine Samsung product for Pakistan. Modern smartwatch with activity tracking, notifications and a bright, durable everyday display.",
+      "specs": {
+        "Brand": "Samsung",
+        "Model": "Samsung Galaxy Watch Ultra",
+        "Type": "Smartwatch",
+        "Tracking": "Health and activity",
+        "Wireless": "Bluetooth",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "samsung-galaxy-watch-ultra-standard",
+          "label": "Standard",
+          "price": 179999,
+          "stock": 23
+        }
+      ]
+    },
+    {
+      "id": "p-55",
+      "slug": "huawei-watch-5",
+      "brand": "Huawei",
+      "name": "Huawei Watch 5",
+      "category": "smartwatches",
+      "price": 119999,
+      "retail": 134999,
+      "rating": 4.9,
+      "reviews": 135,
+      "stock": 26,
+      "badge": "Fast Delivery",
+      "color": "#ea580c",
+      "image": "/images/products/catalog-smartwatches-05.webp",
+      "description": "Huawei Watch 5 is a genuine Huawei product for Pakistan. Modern smartwatch with activity tracking, notifications and a bright, durable everyday display.",
+      "specs": {
+        "Brand": "Huawei",
+        "Model": "Huawei Watch 5",
+        "Type": "Smartwatch",
+        "Tracking": "Health and activity",
+        "Wireless": "Bluetooth",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "huawei-watch-5-standard",
+          "label": "Standard",
+          "price": 119999,
+          "stock": 26
+        }
+      ]
+    },
+    {
+      "id": "p-56",
+      "slug": "xiaomi-watch-s4",
+      "brand": "Xiaomi",
+      "name": "Xiaomi Watch S4",
+      "category": "smartwatches",
+      "price": 49999,
+      "retail": 54999,
+      "rating": 4.5,
+      "reviews": 152,
+      "stock": 29,
+      "badge": "Best Seller",
+      "color": "#059669",
+      "image": "/images/products/catalog-smartwatches-06.webp",
+      "description": "Xiaomi Watch S4 is a genuine Xiaomi product for Pakistan. Modern smartwatch with activity tracking, notifications and a bright, durable everyday display.",
+      "specs": {
+        "Brand": "Xiaomi",
+        "Model": "Xiaomi Watch S4",
+        "Type": "Smartwatch",
+        "Tracking": "Health and activity",
+        "Wireless": "Bluetooth",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "xiaomi-watch-s4-standard",
+          "label": "Standard",
+          "price": 49999,
+          "stock": 29
+        }
+      ]
+    },
+    {
+      "id": "p-57",
+      "slug": "noise-colorfit-pro-6",
+      "brand": "Noise",
+      "name": "Noise ColorFit Pro 6",
+      "category": "smartwatches",
+      "price": 24999,
+      "retail": 27999,
+      "rating": 4.6,
+      "reviews": 169,
+      "stock": 32,
+      "color": "#334155",
+      "image": "/images/products/catalog-smartwatches-07.webp",
+      "description": "Noise ColorFit Pro 6 is a genuine Noise product for Pakistan. Modern smartwatch with activity tracking, notifications and a bright, durable everyday display.",
+      "specs": {
+        "Brand": "Noise",
+        "Model": "Noise ColorFit Pro 6",
+        "Type": "Smartwatch",
+        "Tracking": "Health and activity",
+        "Wireless": "Bluetooth",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "noise-colorfit-pro-6-standard",
+          "label": "Standard",
+          "price": 24999,
+          "stock": 32
+        }
+      ]
+    },
+    {
+      "id": "p-58",
+      "slug": "boat-storm-infinity",
+      "brand": "boAt",
+      "name": "boAt Storm Infinity",
+      "category": "smartwatches",
+      "price": 17999,
+      "retail": 19999,
+      "rating": 4.7,
+      "reviews": 26,
+      "stock": 35,
+      "badge": "Top Rated",
+      "color": "#be123c",
+      "image": "/images/products/catalog-smartwatches-08.webp",
+      "description": "boAt Storm Infinity is a genuine boAt product for Pakistan. Modern smartwatch with activity tracking, notifications and a bright, durable everyday display.",
+      "specs": {
+        "Brand": "boAt",
+        "Model": "boAt Storm Infinity",
+        "Type": "Smartwatch",
+        "Tracking": "Health and activity",
+        "Wireless": "Bluetooth",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "boat-storm-infinity-standard",
+          "label": "Standard",
+          "price": 17999,
+          "stock": 35
+        }
+      ]
+    },
+    {
+      "id": "p-59",
+      "slug": "cmf-watch-3-pro",
+      "brand": "CMF by Nothing",
+      "name": "CMF Watch 3 Pro",
+      "category": "smartwatches",
+      "price": 22999,
+      "retail": 24999,
+      "rating": 4.8,
+      "reviews": 43,
+      "stock": 9,
+      "color": "#4f46e5",
+      "image": "/images/products/catalog-smartwatches-09.webp",
+      "description": "CMF Watch 3 Pro is a genuine CMF by Nothing product for Pakistan. Modern smartwatch with activity tracking, notifications and a bright, durable everyday display.",
+      "specs": {
+        "Brand": "CMF by Nothing",
+        "Model": "CMF Watch 3 Pro",
+        "Type": "Smartwatch",
+        "Tracking": "Health and activity",
+        "Wireless": "Bluetooth",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "cmf-watch-3-pro-standard",
+          "label": "Standard",
+          "price": 22999,
+          "stock": 9
+        }
+      ]
+    },
+    {
+      "id": "p-60",
+      "slug": "samsung-galaxy-fit3",
+      "brand": "Samsung",
+      "name": "Samsung Galaxy Fit3",
+      "category": "smartwatches",
+      "price": 19999,
+      "retail": 22999,
+      "rating": 4.9,
+      "reviews": 60,
+      "stock": 12,
+      "badge": "Value Pick",
+      "color": "#0f766e",
+      "image": "/images/products/catalog-smartwatches-10.webp",
+      "description": "Samsung Galaxy Fit3 is a genuine Samsung product for Pakistan. Modern smartwatch with activity tracking, notifications and a bright, durable everyday display.",
+      "specs": {
+        "Brand": "Samsung",
+        "Model": "Samsung Galaxy Fit3",
+        "Type": "Smartwatch",
+        "Tracking": "Health and activity",
+        "Wireless": "Bluetooth",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "samsung-galaxy-fit3-standard",
+          "label": "Standard",
+          "price": 19999,
+          "stock": 12
+        }
+      ]
+    },
+    {
+      "id": "p-61",
+      "slug": "sony-wh-1000xm6",
+      "brand": "Sony",
+      "name": "Sony WH-1000XM6",
+      "category": "audio",
+      "price": 129999,
+      "retail": 139999,
+      "rating": 4.6,
+      "reviews": 78,
+      "stock": 21,
+      "badge": "New",
+      "color": "#0f172a",
+      "image": "/images/products/catalog-audio-01.webp",
+      "description": "Sony WH-1000XM6 is a genuine Sony product for Pakistan. Premium audio product with clear sound, dependable wireless performance and comfortable everyday use.",
+      "specs": {
+        "Brand": "Sony",
+        "Model": "Sony WH-1000XM6",
+        "Type": "Wireless audio",
+        "Connectivity": "Bluetooth",
+        "Charging": "USB-C",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "sony-wh-1000xm6-standard",
+          "label": "Standard",
+          "price": 129999,
+          "stock": 21
+        }
+      ]
+    },
+    {
+      "id": "p-62",
+      "slug": "jbl-tour-one-m3",
+      "brand": "JBL",
+      "name": "JBL Tour One M3",
+      "category": "audio",
+      "price": 109999,
+      "retail": 119999,
+      "rating": 4.7,
+      "reviews": 95,
+      "stock": 24,
+      "badge": "Featured",
+      "color": "#2563eb",
+      "image": "/images/products/catalog-audio-02.webp",
+      "description": "JBL Tour One M3 is a genuine JBL product for Pakistan. Premium audio product with clear sound, dependable wireless performance and comfortable everyday use.",
+      "specs": {
+        "Brand": "JBL",
+        "Model": "JBL Tour One M3",
+        "Type": "Wireless audio",
+        "Connectivity": "Bluetooth",
+        "Charging": "USB-C",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "jbl-tour-one-m3-standard",
+          "label": "Standard",
+          "price": 109999,
+          "stock": 24
+        }
+      ]
+    },
+    {
+      "id": "p-63",
+      "slug": "bose-quietcomfort-ultra-headphones",
+      "brand": "Bose",
+      "name": "Bose QuietComfort Ultra Headphones",
+      "category": "audio",
+      "price": 139999,
+      "retail": 149999,
+      "rating": 4.8,
+      "reviews": 112,
+      "stock": 27,
+      "badge": "Popular",
+      "color": "#0891b2",
+      "image": "/images/products/catalog-audio-03.webp",
+      "description": "Bose QuietComfort Ultra Headphones is a genuine Bose product for Pakistan. Premium audio product with clear sound, dependable wireless performance and comfortable everyday use.",
+      "specs": {
+        "Brand": "Bose",
+        "Model": "Bose QuietComfort Ultra Headphones",
+        "Type": "Wireless audio",
+        "Connectivity": "Bluetooth",
+        "Charging": "USB-C",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "bose-quietcomfort-ultra-headphones-standard",
+          "label": "Standard",
+          "price": 139999,
+          "stock": 27
+        }
+      ]
+    },
+    {
+      "id": "p-64",
+      "slug": "apple-airpods-pro",
+      "brand": "Apple",
+      "name": "Apple AirPods Pro",
+      "category": "audio",
+      "price": 79999,
+      "retail": 89999,
+      "rating": 4.9,
+      "reviews": 129,
+      "stock": 30,
+      "badge": "Official",
+      "color": "#7c3aed",
+      "image": "/images/products/catalog-audio-04.webp",
+      "description": "Apple AirPods Pro is a genuine Apple product for Pakistan. Premium audio product with clear sound, dependable wireless performance and comfortable everyday use.",
+      "specs": {
+        "Brand": "Apple",
+        "Model": "Apple AirPods Pro",
+        "Type": "Wireless audio",
+        "Connectivity": "Bluetooth",
+        "Charging": "USB-C",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "apple-airpods-pro-standard",
+          "label": "Standard",
+          "price": 79999,
+          "stock": 30
+        }
+      ]
+    },
+    {
+      "id": "p-65",
+      "slug": "samsung-galaxy-buds3-pro",
+      "brand": "Samsung",
+      "name": "Samsung Galaxy Buds3 Pro",
+      "category": "audio",
+      "price": 54999,
+      "retail": 62999,
+      "rating": 4.5,
+      "reviews": 146,
+      "stock": 33,
+      "badge": "Fast Delivery",
+      "color": "#ea580c",
+      "image": "/images/products/catalog-audio-05.webp",
+      "description": "Samsung Galaxy Buds3 Pro is a genuine Samsung product for Pakistan. Premium audio product with clear sound, dependable wireless performance and comfortable everyday use.",
+      "specs": {
+        "Brand": "Samsung",
+        "Model": "Samsung Galaxy Buds3 Pro",
+        "Type": "Wireless audio",
+        "Connectivity": "Bluetooth",
+        "Charging": "USB-C",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "samsung-galaxy-buds3-pro-standard",
+          "label": "Standard",
+          "price": 54999,
+          "stock": 33
+        }
+      ]
+    },
+    {
+      "id": "p-66",
+      "slug": "soundcore-liberty-5",
+      "brand": "Soundcore",
+      "name": "Soundcore Liberty 5",
+      "category": "audio",
+      "price": 29999,
+      "retail": 33999,
+      "rating": 4.6,
+      "reviews": 163,
+      "stock": 36,
+      "badge": "Best Seller",
+      "color": "#059669",
+      "image": "/images/products/catalog-audio-06.webp",
+      "description": "Soundcore Liberty 5 is a genuine Soundcore product for Pakistan. Premium audio product with clear sound, dependable wireless performance and comfortable everyday use.",
+      "specs": {
+        "Brand": "Soundcore",
+        "Model": "Soundcore Liberty 5",
+        "Type": "Wireless audio",
+        "Connectivity": "Bluetooth",
+        "Charging": "USB-C",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "soundcore-liberty-5-standard",
+          "label": "Standard",
+          "price": 29999,
+          "stock": 36
+        }
+      ]
+    },
+    {
+      "id": "p-67",
+      "slug": "beats-studio-pro",
+      "brand": "Beats",
+      "name": "Beats Studio Pro",
+      "category": "audio",
+      "price": 94999,
+      "retail": 104999,
+      "rating": 4.7,
+      "reviews": 20,
+      "stock": 10,
+      "color": "#334155",
+      "image": "/images/products/catalog-audio-07.webp",
+      "description": "Beats Studio Pro is a genuine Beats product for Pakistan. Premium audio product with clear sound, dependable wireless performance and comfortable everyday use.",
+      "specs": {
+        "Brand": "Beats",
+        "Model": "Beats Studio Pro",
+        "Type": "Wireless audio",
+        "Connectivity": "Bluetooth",
+        "Charging": "USB-C",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "beats-studio-pro-standard",
+          "label": "Standard",
+          "price": 94999,
+          "stock": 10
+        }
+      ]
+    },
+    {
+      "id": "p-68",
+      "slug": "skullcandy-crusher-anc-2",
+      "brand": "Skullcandy",
+      "name": "Skullcandy Crusher ANC 2",
+      "category": "audio",
+      "price": 79999,
+      "retail": 89999,
+      "rating": 4.8,
+      "reviews": 37,
+      "stock": 13,
+      "badge": "Top Rated",
+      "color": "#be123c",
+      "image": "/images/products/catalog-audio-08.webp",
+      "description": "Skullcandy Crusher ANC 2 is a genuine Skullcandy product for Pakistan. Premium audio product with clear sound, dependable wireless performance and comfortable everyday use.",
+      "specs": {
+        "Brand": "Skullcandy",
+        "Model": "Skullcandy Crusher ANC 2",
+        "Type": "Wireless audio",
+        "Connectivity": "Bluetooth",
+        "Charging": "USB-C",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "skullcandy-crusher-anc-2-standard",
+          "label": "Standard",
+          "price": 79999,
+          "stock": 13
+        }
+      ]
+    },
+    {
+      "id": "p-69",
+      "slug": "sennheiser-momentum-4-wireless",
+      "brand": "Sennheiser",
+      "name": "Sennheiser Momentum 4 Wireless",
+      "category": "audio",
+      "price": 109999,
+      "retail": 119999,
+      "rating": 4.9,
+      "reviews": 54,
+      "stock": 16,
+      "color": "#4f46e5",
+      "image": "/images/products/catalog-audio-09.webp",
+      "description": "Sennheiser Momentum 4 Wireless is a genuine Sennheiser product for Pakistan. Premium audio product with clear sound, dependable wireless performance and comfortable everyday use.",
+      "specs": {
+        "Brand": "Sennheiser",
+        "Model": "Sennheiser Momentum 4 Wireless",
+        "Type": "Wireless audio",
+        "Connectivity": "Bluetooth",
+        "Charging": "USB-C",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "sennheiser-momentum-4-wireless-standard",
+          "label": "Standard",
+          "price": 109999,
+          "stock": 16
+        }
+      ]
+    },
+    {
+      "id": "p-70",
+      "slug": "nothing-ear",
+      "brand": "Nothing",
+      "name": "Nothing Ear",
+      "category": "audio",
+      "price": 34999,
+      "retail": 38999,
+      "rating": 4.5,
+      "reviews": 71,
+      "stock": 19,
+      "badge": "Value Pick",
+      "color": "#0f766e",
+      "image": "/images/products/catalog-audio-10.webp",
+      "description": "Nothing Ear is a genuine Nothing product for Pakistan. Premium audio product with clear sound, dependable wireless performance and comfortable everyday use.",
+      "specs": {
+        "Brand": "Nothing",
+        "Model": "Nothing Ear",
+        "Type": "Wireless audio",
+        "Connectivity": "Bluetooth",
+        "Charging": "USB-C",
+        "Warranty": "Official warranty"
+      },
+      "variants": [
+        {
+          "id": "nothing-ear-standard",
+          "label": "Standard",
+          "price": 34999,
+          "stock": 19
+        }
+      ]
+    }
+  ]
+}
